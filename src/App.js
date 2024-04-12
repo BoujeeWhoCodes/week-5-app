@@ -10,7 +10,7 @@ export default function App() {
 	  <h1>Weather App</h1>
 	  <footer>
 		This project was coded by < a href="">Bougie</a> 
-		and is {""}
+		{""} and is {""}
     
 	  <a href="https://github.com/BoujeeWhoCodes/week-5-app"
 	  target="_blank">	
